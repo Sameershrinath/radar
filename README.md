@@ -1,4 +1,5 @@
 # Arduino Sonar Radar
+[Click to Read the BLOG on it](bit.ly/sgvuradar)
 
 Welcome to the Arduino Sonar Radar project repository! This project aims to create a simple yet effective radar system using Arduino and a Sonar sensor.
 
