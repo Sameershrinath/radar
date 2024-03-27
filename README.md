@@ -27,6 +27,6 @@ Special thanks to the Arduino community and contributors for their support and i
 
 ## Connect with Us
 
-For any inquiries or discussions regarding this project, feel free to reach out through GitHub or [contact us](mailto:example@email.com).
+For any inquiries or discussions regarding this project, feel free to reach out through GitHub or [contact us](mailto:esameershrinath@email.com).
 
 Happy radar making!
